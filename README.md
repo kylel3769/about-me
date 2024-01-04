@@ -10,3 +10,5 @@ Pineapple is the best topping for pizza
 Pizza on pineapple
 
 I am in sep10
+
+I am not in pathfinders
