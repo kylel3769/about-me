@@ -1,4 +1,3 @@
 # about-me
-everything
-what is about youu
-*shakes head*
+My name is Kyle lam
+Im way better at coding
